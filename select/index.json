@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Marry You",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-03-03T01:48:40.633440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Kat & Alex",
+      "has_synced": true,
+      "path": "select/01_Marry_You_Kat_&_Alex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/02_Marry_You_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cindy, I'll Marry You Someday",
+      "artist": "Robert Plant",
+      "has_synced": true,
+      "path": "select/03_Cindy,_I'll_Marry_You_Someday_Robert_Plant.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wanna Marry You",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/04_I_Wanna_Marry_You_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/05_Marry_You_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Marry You (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/06_Marry_You_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/07_Marry_You_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Want to marry you and die!",
+      "artist": "たかやん",
+      "has_synced": true,
+      "path": "select/08_Want_to_marry_you_and_die!_たかやん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Eric Clapton feat. B.B. King",
+      "has_synced": true,
+      "path": "select/09_Marry_You_Eric_Clapton_feat._B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/10_Marry_You_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Eric Clapton & B.B. King",
+      "has_synced": true,
+      "path": "select/11_Marry_You_Eric_Clapton_&_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "B.B. King feat. Eric Clapton",
+      "has_synced": true,
+      "path": "select/12_Marry_You_B.B._King_feat._Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "B.B. King & Eric Clapton",
+      "has_synced": true,
+      "path": "select/13_Marry_You_B.B._King_&_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/14_Marry_You_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Eric Clapton with B.B. King",
+      "has_synced": true,
+      "path": "select/15_Marry_You_Eric_Clapton_with_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Marry You",
+      "artist": "Eric Clapton/B.B. King",
+      "has_synced": true,
+      "path": "select/16_Marry_You_Eric_Clapton_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Marry The Night",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/17_Marry_The_Night_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Marry the Night (Zedd Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/18_Marry_the_Night_(Zedd_Remix)_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Marry The Night (Zedd Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/19_Marry_The_Night_(Zedd_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Will Never Marry",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/20_Will_Never_Marry_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Never Will I Marry",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/21_Never_Will_I_Marry_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Will You Marry Me?",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/22_Will_You_Marry_Me_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Marry Song",
+      "artist": "Band of Horses",
+      "has_synced": true,
+      "path": "select/23_Marry_Song_Band_of_Horses.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Farao",
+      "has_synced": false,
+      "path": "select/24_Marry_Me_Farao.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Archie, Marry Me",
+      "artist": "Alvvays",
+      "has_synced": true,
+      "path": "select/25_Archie,_Marry_Me_Alvvays.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Archie, Marry Me",
+      "artist": "Alvvays",
+      "has_synced": true,
+      "path": "select/26_Archie,_Marry_Me_Alvvays.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Marry Me - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/27_Marry_Me_-_Remastered_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Want to Marry a Lighthouse Keeper",
+      "artist": "Erika Eigen",
+      "has_synced": false,
+      "path": "select/28_I_Want_to_Marry_a_Lighthouse_Keeper_Erika_Eigen.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Marry Ann",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/29_Marry_Ann_Regina_Spektor.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/30_Marry_Me_Sparks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Marry You",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Marry_You_Bruno_Mars.txt"
+    }
+  ]
+}
